@@ -3,7 +3,16 @@
 Explode and explore dimensions in Software Animation. It’s like a
 console for an engineer, or a histogram for a photographer.
 
-## Install
+## Installation
+
+### NPM (recommended)
+
+```
+cd /your/framer/project
+npm i motionscope --save
+```
+
+### Manual Install
 
 Save a copy of `MotionScope.coffee` in your projects `modules` sub-folder.
 

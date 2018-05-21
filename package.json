@@ -1,0 +1,22 @@
+{
+  "name": "motionscope",
+  "version": "1.0.0",
+  "description": "Explode and explore dimensions in Software Animation",
+  "main": "motionscope.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yothinko/MotionScope.git"
+  },
+  "keywords": [
+    "framer"
+  ],
+  "author": "Thinko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yothinko/MotionScope/issues"
+  },
+  "homepage": "https://thinko.com/motionscope",
+}

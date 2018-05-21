@@ -28,11 +28,11 @@ Optionally, you can configure the MotionScope graph.
 
 ```
 (require "MotionScope").load({
-	parent: Scope
+  parent: Scope
   reset: ResetButton
 }, (scope) ->
   scope.plot(modal, 'x')
-	scope.plot(modal, 'y')
+  scope.plot(modal, 'y')
 )
 ```
 
@@ -40,11 +40,11 @@ The plot method can be configured as well.
 
 ```
 (require "MotionScope").load({
-	parent: Scope
+  parent: Scope
   reset: ResetButton
 }, (scope) ->
   scope.plot(oval, 'opacity', {
-  	color: '#FFA29C'
+    color: '#FFA29C'
   })
 )
 ```

@@ -9,7 +9,7 @@ Save a copy of `MotionScope.coffee` in your projects `modules` sub-folder.
 
 ```
 cd /your/framer/project
-curl https://rawgit.com/yothinko/MotionScope/master/motionscope.coffee -o modules/MotionScope.coffee
+curl https://rawgit.com/yothinko/MotionScope/master/MotionScope.coffee -o modules/MotionScope.coffee
 ```
 
 ## Usage

@@ -5,16 +5,12 @@ console for an engineer, or a histogram for a photographer.
 
 ## Installation
 
-### NPM (recommended)
+Save a copy of `MotionScope.coffee` in your projects `modules` sub-folder.
 
 ```
 cd /your/framer/project
-npm i motionscope --save
+curl https://rawgit.com/yothinko/MotionScope/master/motionscope.coffee -o modules/MotionScope.coffee
 ```
-
-### Manual Install
-
-Save a copy of `MotionScope.coffee` in your projects `modules` sub-folder.
 
 ## Usage
 

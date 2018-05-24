@@ -18,7 +18,7 @@ Specify the properties of any regular Framer layers you wish to plot.
 
 ```
 (require "MotionScope").load((scope) ->
-  # `modal` is the name of the layer you want to attach the scope to
+  # `modal` is the layer you want to attach the scope to
   scope.plot(modal, 'y')
   scope.plot(modal, 'scale')
 )

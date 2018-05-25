@@ -1,5 +1,5 @@
 # MotionScope
-![Springs](https://i.imgur.com/n6b402x.gif)
+![](https://i.imgur.com/vOH1uh0.gif)
 
 
 Explode and explore dimensions in Software Animation. It’s like a

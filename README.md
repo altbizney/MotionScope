@@ -1,4 +1,6 @@
 # MotionScope
+![Springs](https://i.imgur.com/n6b402x.gif)
+
 
 Explode and explore dimensions in Software Animation. It’s like a
 console for an engineer, or a histogram for a photographer.

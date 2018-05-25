@@ -1,4 +1,4 @@
-# MotionScope
+# MotionScope (Preview Release)
 ![](https://i.imgur.com/vOH1uh0.gif)
 
 

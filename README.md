@@ -55,7 +55,7 @@ The plot method can be configured as well.
 
 * `parent`: pass a Framer layer to use as the MotionScope parent. The graph
   will be sized to the width and height of the parent layer.
-* `width`, `height`: set the graph size without add it to a parent layer.
+* `width`, `height`: set the graph size without adding it to a parent layer.
 * `reset`: pass a Framer layer to use as a reset button. Clicking the button
   will clear the graph.
 

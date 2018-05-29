@@ -5,6 +5,8 @@
 Explode and explore dimensions in Software Animation. It’s like a
 console for an engineer, or a histogram for a photographer.
 
+http://thinko.com/motionscope
+
 ## Installation
 
 Save a copy of `MotionScope.coffee` in your projects `modules` sub-folder.

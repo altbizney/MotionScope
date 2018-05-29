@@ -5,6 +5,8 @@
 Explode and explore dimensions in Software Animation. It’s like a
 console for an engineer, or a histogram for a photographer.
 
+Made by your friends at Thinko, Computer Entertainment Studio ❤️
+
 http://thinko.com/motionscope
 
 ## Installation

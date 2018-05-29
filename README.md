@@ -9,6 +9,8 @@ Made by your friends at Thinko, Computer Entertainment Studio ❤️
 
 http://thinko.com/motionscope
 
+Email: hey@thinko.com for questions / comments
+
 ## Installation
 
 Save a copy of `MotionScope.coffee` in your projects `modules` sub-folder.
